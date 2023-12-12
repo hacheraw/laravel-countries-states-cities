@@ -1,10 +1,11 @@
 {
     "name": "altwaireb/laravel-countries-states-cities",
-    "description": "This is my package laravel-countries-states-cities",
+    "description": "Laravel Countries States Cities DB Migration & Seeder",
     "keywords": [
-        "Altwaireb",
-        "laravel",
-        "laravel-countries-states-cities"
+        "countries",
+        "states",
+        "cities",
+        "laravel"
     ],
     "homepage": "https://github.com/altwaireb/laravel-countries-states-cities",
     "license": "MIT",
